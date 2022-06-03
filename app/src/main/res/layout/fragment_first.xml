@@ -20,4 +20,12 @@
         android:layout_marginTop="100dp"
         android:text="next_btn" />
 
+    <Button
+        android:id="@+id/image_share_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:text="OSの共有ボタン" />
+
 </FrameLayout>
